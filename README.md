@@ -1,2 +1,2 @@
-# Ali-Hafizi
-M.sc. Electronic Engineer
+# stm32f407vgt6
+cortex-m7
